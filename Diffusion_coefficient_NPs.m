@@ -1,25 +1,11 @@
 HIHIHIHI HOSSEIN!
 WHWJHosdfsdnfksjnflksfsdf,;lsd fldsk fljksnfjksnjfknskjflsdf
-
-sdlfndskjfndsjknfkdsjfnjkds
-sdkfndskjfnskdjnfjsbf;OENEDF;EIOFNMWMF
-
-
-SDFHBJKFBASDJKFBADSJKFBAFB
-
-MDFJBSJFBJAFBJDFBADSF
+11111111111111111111111111111111111111111111111111111111111111
+111111111111111111
 
 
 
-
-
-
-clear all
-close all
-clc
-
-
-atom_number=280;
+0;
 frame_number=2210;
 box_max=1.3e2;
 box_min=-2e0;
